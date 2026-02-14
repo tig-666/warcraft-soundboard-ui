@@ -1,0 +1,44 @@
+.race-container {
+  padding: 1rem;
+  background: #1b1b1b;
+  border: 2px solid #5c4b2a;
+  border-radius: 6px;
+  color: #d4af37;
+  font-family: 'Cinzel', serif;
+}
+
+.race-list {
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+}
+
+.race-button {
+  background: linear-gradient(#2c2c2c, #1a1a1a);
+  border: 1px solid #7a5c1b;
+  color: #e0c97f;
+  padding: 0.5rem;
+  cursor: pointer;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  transition: 0.2s ease;
+}
+
+.race-button:hover {
+  background: #3a2f1a;
+}
+
+.race-button.active {
+  background: #6b4e16;
+  color: white;
+  box-shadow: 0 0 10px #c89b3c;
+}
+
+
+.audio-button.playing {
+  border-color: #ff5a3c;
+
+  box-shadow:
+    0 0 10px rgba(255, 90, 60, 0.6),
+    inset 0 1px 0 rgba(255, 255, 255, 0.1);
+}

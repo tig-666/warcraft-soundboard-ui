@@ -1,0 +1,26 @@
+<div class="app-layout">
+
+  <div class="sidebar">
+    <app-race-list
+      (raceSelected)="onRaceSelected($event)">
+    </app-race-list>
+  </div>
+
+  <div class="main-area">
+
+    <div class="character-bar">
+      <app-character-list
+        [raceName]="selectedRace()"
+        (characterSelected)="onCharacterSelected($event)">
+      </app-character-list>
+    </div>
+
+    <div class="audio-area">
+      <app-audio-list
+        [character]="selectedCharacter()">
+      </app-audio-list>
+    </div>
+
+  </div>
+
+</div>

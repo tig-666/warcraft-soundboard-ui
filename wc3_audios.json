@@ -1,0 +1,2183 @@
+{
+  "name": "Undead",
+  "characters": [
+    {
+      "name": "Abomination",
+      "image": "",
+      "audios": [
+        {
+          "id": "undead-abomination-abominationalternatedeath1",
+          "label": "Alternate Death 1",
+          "file": "/audio/Undead/Abomination/AbominationAlternateDeath1.wav",
+          "transcription": ""
+        },
+        {
+          "id": "undead-abomination-abominationdeath1",
+          "label": "Death 1",
+          "file": "/audio/Undead/Abomination/AbominationDeath1.wav",
+          "transcription": ""
+        },
+        {
+          "id": "undead-abomination-abominationpissed1",
+          "label": "Pissed 1",
+          "file": "/audio/Undead/Abomination/AbominationPissed1.wav",
+          "transcription": ""
+        },
+        {
+          "id": "undead-abomination-abominationpissed2",
+          "label": "Pissed 2",
+          "file": "/audio/Undead/Abomination/AbominationPissed2.wav",
+          "transcription": ""
+        },
+        {
+          "id": "undead-abomination-abominationpissed3",
+          "label": "Pissed 3",
+          "file": "/audio/Undead/Abomination/AbominationPissed3.wav",
+          "transcription": ""
+        },
+        {
+          "id": "undead-abomination-abominationpissed4",
+          "label": "Pissed 4",
+          "file": "/audio/Undead/Abomination/AbominationPissed4.wav",
+          "transcription": ""
+        },
+        {
+          "id": "undead-abomination-abominationpissed5",
+          "label": "Pissed 5",
+          "file": "/audio/Undead/Abomination/AbominationPissed5.wav",
+          "transcription": ""
+        },
+        {
+          "id": "undead-abomination-abominationpissed6",
+          "label": "Pissed 6",
+          "file": "/audio/Undead/Abomination/AbominationPissed6.wav",
+          "transcription": ""
+        },
+        {
+          "id": "undead-abomination-abominationready1",
+          "label": "Ready 1",
+          "file": "/audio/Undead/Abomination/AbominationReady1.wav",
+          "transcription": ""
+        },
+        {
+          "id": "undead-abomination-abominationwarcry1",
+          "label": "Warcry 1",
+          "file": "/audio/Undead/Abomination/AbominationWarcry1.wav",
+          "transcription": ""
+        },
+        {
+          "id": "undead-abomination-abominationwhat1",
+          "label": "What 1",
+          "file": "/audio/Undead/Abomination/AbominationWhat1.wav",
+          "transcription": ""
+        },
+        {
+          "id": "undead-abomination-abominationwhat2",
+          "label": "What 2",
+          "file": "/audio/Undead/Abomination/AbominationWhat2.wav",
+          "transcription": ""
+        },
+        {
+          "id": "undead-abomination-abominationwhat3",
+          "label": "What 3",
+          "file": "/audio/Undead/Abomination/AbominationWhat3.wav",
+          "transcription": ""
+        },
+        {
+          "id": "undead-abomination-abominationwhat4",
+          "label": "What 4",
+          "file": "/audio/Undead/Abomination/AbominationWhat4.wav",
+          "transcription": ""
+        },
+        {
+          "id": "undead-abomination-abominationyes1",
+          "label": "Yes 1",
+          "file": "/audio/Undead/Abomination/AbominationYes1.wav",
+          "transcription": ""
+        },
+        {
+          "id": "undead-abomination-abominationyes2",
+          "label": "Yes 2",
+          "file": "/audio/Undead/Abomination/AbominationYes2.wav",
+          "transcription": ""
+        },
+        {
+          "id": "undead-abomination-abominationyes3",
+          "label": "Yes 3",
+          "file": "/audio/Undead/Abomination/AbominationYes3.wav",
+          "transcription": ""
+        },
+        {
+          "id": "undead-abomination-abominationyes4",
+          "label": "Yes 4",
+          "file": "/audio/Undead/Abomination/AbominationYes4.wav",
+          "transcription": ""
+        },
+        {
+          "id": "undead-abomination-abominationyes5",
+          "label": "Yes 5",
+          "file": "/audio/Undead/Abomination/AbominationYes5.wav",
+          "transcription": ""
+        },
+        {
+          "id": "undead-abomination-abominationyesattack1",
+          "label": "Yes Attack 1",
+          "file": "/audio/Undead/Abomination/AbominationYesAttack1.wav",
+          "transcription": ""
+        },
+        {
+          "id": "undead-abomination-abominationyesattack2",
+          "label": "Yes Attack 2",
+          "file": "/audio/Undead/Abomination/AbominationYesAttack2.wav",
+          "transcription": ""
+        },
+        {
+          "id": "undead-abomination-abominationyesattack3",
+          "label": "Yes Attack 3",
+          "file": "/audio/Undead/Abomination/AbominationYesAttack3.wav",
+          "transcription": ""
+        },
+        {
+          "id": "undead-abomination-abominationyesattack4",
+          "label": "Yes Attack 4",
+          "file": "/audio/Undead/Abomination/AbominationYesAttack4.wav",
+          "transcription": ""
+        }
+      ]
+    },
+    {
+      "name": "Acolyte",
+      "image": "",
+      "audios": [
+        {
+          "id": "undead-acolyte-acolytedeath1",
+          "label": "Death 1",
+          "file": "/audio/Undead/Acolyte/AcolyteDeath1.wav",
+          "transcription": ""
+        },
+        {
+          "id": "undead-acolyte-acolytepissed1",
+          "label": "Pissed 1",
+          "file": "/audio/Undead/Acolyte/AcolytePissed1.wav",
+          "transcription": ""
+        },
+        {
+          "id": "undead-acolyte-acolytepissed2",
+          "label": "Pissed 2",
+          "file": "/audio/Undead/Acolyte/AcolytePissed2.wav",
+          "transcription": ""
+        },
+        {
+          "id": "undead-acolyte-acolytepissed3",
+          "label": "Pissed 3",
+          "file": "/audio/Undead/Acolyte/AcolytePissed3.wav",
+          "transcription": ""
+        },
+        {
+          "id": "undead-acolyte-acolytepissed4",
+          "label": "Pissed 4",
+          "file": "/audio/Undead/Acolyte/AcolytePissed4.wav",
+          "transcription": ""
+        },
+        {
+          "id": "undead-acolyte-acolytepissed5",
+          "label": "Pissed 5",
+          "file": "/audio/Undead/Acolyte/AcolytePissed5.wav",
+          "transcription": ""
+        },
+        {
+          "id": "undead-acolyte-acolytepissed6",
+          "label": "Pissed 6",
+          "file": "/audio/Undead/Acolyte/AcolytePissed6.wav",
+          "transcription": ""
+        },
+        {
+          "id": "undead-acolyte-acolytepissed7",
+          "label": "Pissed 7",
+          "file": "/audio/Undead/Acolyte/AcolytePissed7.wav",
+          "transcription": ""
+        },
+        {
+          "id": "undead-acolyte-acolytepissed8",
+          "label": "Pissed 8",
+          "file": "/audio/Undead/Acolyte/AcolytePissed8.wav",
+          "transcription": ""
+        },
+        {
+          "id": "undead-acolyte-acolyteready1",
+          "label": "Ready 1",
+          "file": "/audio/Undead/Acolyte/AcolyteReady1.wav",
+          "transcription": ""
+        },
+        {
+          "id": "undead-acolyte-acolytewarcry1",
+          "label": "Warcry 1",
+          "file": "/audio/Undead/Acolyte/AcolyteWarcry1.wav",
+          "transcription": ""
+        },
+        {
+          "id": "undead-acolyte-acolytewhat1",
+          "label": "What 1",
+          "file": "/audio/Undead/Acolyte/AcolyteWhat1.wav",
+          "transcription": ""
+        },
+        {
+          "id": "undead-acolyte-acolytewhat2",
+          "label": "What 2",
+          "file": "/audio/Undead/Acolyte/AcolyteWhat2.wav",
+          "transcription": ""
+        },
+        {
+          "id": "undead-acolyte-acolytewhat3",
+          "label": "What 3",
+          "file": "/audio/Undead/Acolyte/AcolyteWhat3.wav",
+          "transcription": ""
+        },
+        {
+          "id": "undead-acolyte-acolytewhat4",
+          "label": "What 4",
+          "file": "/audio/Undead/Acolyte/AcolyteWhat4.wav",
+          "transcription": ""
+        },
+        {
+          "id": "undead-acolyte-acolytewhat5",
+          "label": "What 5",
+          "file": "/audio/Undead/Acolyte/AcolyteWhat5.wav",
+          "transcription": ""
+        },
+        {
+          "id": "undead-acolyte-acolyteyes1",
+          "label": "Yes 1",
+          "file": "/audio/Undead/Acolyte/AcolyteYes1.wav",
+          "transcription": ""
+        },
+        {
+          "id": "undead-acolyte-acolyteyes2",
+          "label": "Yes 2",
+          "file": "/audio/Undead/Acolyte/AcolyteYes2.wav",
+          "transcription": ""
+        },
+        {
+          "id": "undead-acolyte-acolyteyes3",
+          "label": "Yes 3",
+          "file": "/audio/Undead/Acolyte/AcolyteYes3.wav",
+          "transcription": ""
+        },
+        {
+          "id": "undead-acolyte-acolyteyes4",
+          "label": "Yes 4",
+          "file": "/audio/Undead/Acolyte/AcolyteYes4.wav",
+          "transcription": ""
+        },
+        {
+          "id": "undead-acolyte-acolyteyesattack1",
+          "label": "Yes Attack 1",
+          "file": "/audio/Undead/Acolyte/AcolyteYesAttack1.wav",
+          "transcription": ""
+        },
+        {
+          "id": "undead-acolyte-acolyteyesattack2",
+          "label": "Yes Attack 2",
+          "file": "/audio/Undead/Acolyte/AcolyteYesAttack2.wav",
+          "transcription": ""
+        },
+        {
+          "id": "undead-acolyte-acolyteyesattack3",
+          "label": "Yes Attack 3",
+          "file": "/audio/Undead/Acolyte/AcolyteYesAttack3.wav",
+          "transcription": ""
+        }
+      ]
+    },
+    {
+      "name": "Banshee",
+      "image": "",
+      "audios": [
+        {
+          "id": "undead-banshee-bansheedeath",
+          "label": "Death",
+          "file": "/audio/Undead/Banshee/BansheeDeath.wav",
+          "transcription": ""
+        },
+        {
+          "id": "undead-banshee-bansheepissed1",
+          "label": "Pissed 1",
+          "file": "/audio/Undead/Banshee/BansheePissed1.wav",
+          "transcription": ""
+        },
+        {
+          "id": "undead-banshee-bansheepissed2",
+          "label": "Pissed 2",
+          "file": "/audio/Undead/Banshee/BansheePissed2.wav",
+          "transcription": ""
+        },
+        {
+          "id": "undead-banshee-bansheepissed3",
+          "label": "Pissed 3",
+          "file": "/audio/Undead/Banshee/BansheePissed3.wav",
+          "transcription": ""
+        },
+        {
+          "id": "undead-banshee-bansheepissed4",
+          "label": "Pissed 4",
+          "file": "/audio/Undead/Banshee/BansheePissed4.wav",
+          "transcription": ""
+        },
+        {
+          "id": "undead-banshee-bansheepissed5",
+          "label": "Pissed 5",
+          "file": "/audio/Undead/Banshee/BansheePissed5.wav",
+          "transcription": ""
+        },
+        {
+          "id": "undead-banshee-bansheeready1",
+          "label": "Ready 1",
+          "file": "/audio/Undead/Banshee/BansheeReady1.wav",
+          "transcription": ""
+        },
+        {
+          "id": "undead-banshee-bansheewarcry1",
+          "label": "Warcry 1",
+          "file": "/audio/Undead/Banshee/BansheeWarcry1.wav",
+          "transcription": ""
+        },
+        {
+          "id": "undead-banshee-bansheewhat1",
+          "label": "What 1",
+          "file": "/audio/Undead/Banshee/BansheeWhat1.wav",
+          "transcription": ""
+        },
+        {
+          "id": "undead-banshee-bansheewhat2",
+          "label": "What 2",
+          "file": "/audio/Undead/Banshee/BansheeWhat2.wav",
+          "transcription": ""
+        },
+        {
+          "id": "undead-banshee-bansheewhat3",
+          "label": "What 3",
+          "file": "/audio/Undead/Banshee/BansheeWhat3.wav",
+          "transcription": ""
+        },
+        {
+          "id": "undead-banshee-bansheewhat4",
+          "label": "What 4",
+          "file": "/audio/Undead/Banshee/BansheeWhat4.wav",
+          "transcription": ""
+        },
+        {
+          "id": "undead-banshee-bansheewhat5",
+          "label": "What 5",
+          "file": "/audio/Undead/Banshee/BansheeWhat5.wav",
+          "transcription": ""
+        },
+        {
+          "id": "undead-banshee-bansheeyes1",
+          "label": "Yes 1",
+          "file": "/audio/Undead/Banshee/BansheeYes1.wav",
+          "transcription": ""
+        },
+        {
+          "id": "undead-banshee-bansheeyes2",
+          "label": "Yes 2",
+          "file": "/audio/Undead/Banshee/BansheeYes2.wav",
+          "transcription": ""
+        },
+        {
+          "id": "undead-banshee-bansheeyes3",
+          "label": "Yes 3",
+          "file": "/audio/Undead/Banshee/BansheeYes3.wav",
+          "transcription": ""
+        },
+        {
+          "id": "undead-banshee-bansheeyes4",
+          "label": "Yes 4",
+          "file": "/audio/Undead/Banshee/BansheeYes4.wav",
+          "transcription": ""
+        },
+        {
+          "id": "undead-banshee-bansheeyes5",
+          "label": "Yes 5",
+          "file": "/audio/Undead/Banshee/BansheeYes5.wav",
+          "transcription": ""
+        },
+        {
+          "id": "undead-banshee-bansheeyesattack1",
+          "label": "Yes Attack 1",
+          "file": "/audio/Undead/Banshee/BansheeYesAttack1.wav",
+          "transcription": ""
+        },
+        {
+          "id": "undead-banshee-bansheeyesattack2",
+          "label": "Yes Attack 2",
+          "file": "/audio/Undead/Banshee/BansheeYesAttack2.wav",
+          "transcription": ""
+        },
+        {
+          "id": "undead-banshee-bansheeyesattack3",
+          "label": "Yes Attack 3",
+          "file": "/audio/Undead/Banshee/BansheeYesAttack3.wav",
+          "transcription": ""
+        }
+      ]
+    },
+    {
+      "name": "Crypt Fiend",
+      "image": "",
+      "audios": [
+        {
+          "id": "undead-cryptfiend-cryptfiendpissed1",
+          "label": "Pissed 1",
+          "file": "/audio/Undead/CryptFiend/CryptFiendPissed1.wav",
+          "transcription": ""
+        },
+        {
+          "id": "undead-cryptfiend-cryptfiendpissed2",
+          "label": "Pissed 2",
+          "file": "/audio/Undead/CryptFiend/CryptFiendPissed2.wav",
+          "transcription": ""
+        },
+        {
+          "id": "undead-cryptfiend-cryptfiendpissed3",
+          "label": "Pissed 3",
+          "file": "/audio/Undead/CryptFiend/CryptFiendPissed3.wav",
+          "transcription": ""
+        },
+        {
+          "id": "undead-cryptfiend-cryptfiendpissed4",
+          "label": "Pissed 4",
+          "file": "/audio/Undead/CryptFiend/CryptFiendPissed4.wav",
+          "transcription": ""
+        },
+        {
+          "id": "undead-cryptfiend-cryptfiendpissed5",
+          "label": "Pissed 5",
+          "file": "/audio/Undead/CryptFiend/CryptFiendPissed5.wav",
+          "transcription": ""
+        },
+        {
+          "id": "undead-cryptfiend-cryptfiendpissed6",
+          "label": "Pissed 6",
+          "file": "/audio/Undead/CryptFiend/CryptFiendPissed6.wav",
+          "transcription": ""
+        },
+        {
+          "id": "undead-cryptfiend-cryptfiendpissed7",
+          "label": "Pissed 7",
+          "file": "/audio/Undead/CryptFiend/CryptFiendPissed7.wav",
+          "transcription": ""
+        },
+        {
+          "id": "undead-cryptfiend-pitfienddeath1",
+          "label": "Pit Fiend Death 1",
+          "file": "/audio/Undead/CryptFiend/PitFiendDeath1.wav",
+          "transcription": ""
+        },
+        {
+          "id": "undead-cryptfiend-cryptfiendready1",
+          "label": "Ready 1",
+          "file": "/audio/Undead/CryptFiend/CryptFiendReady1.wav",
+          "transcription": ""
+        },
+        {
+          "id": "undead-cryptfiend-cryptfiendwarcry1",
+          "label": "Warcry 1",
+          "file": "/audio/Undead/CryptFiend/CryptFiendWarcry1.wav",
+          "transcription": ""
+        },
+        {
+          "id": "undead-cryptfiend-cryptfiendwhat1",
+          "label": "What 1",
+          "file": "/audio/Undead/CryptFiend/CryptFiendWhat1.wav",
+          "transcription": ""
+        },
+        {
+          "id": "undead-cryptfiend-cryptfiendwhat2",
+          "label": "What 2",
+          "file": "/audio/Undead/CryptFiend/CryptFiendWhat2.wav",
+          "transcription": ""
+        },
+        {
+          "id": "undead-cryptfiend-cryptfiendwhat3",
+          "label": "What 3",
+          "file": "/audio/Undead/CryptFiend/CryptFiendWhat3.wav",
+          "transcription": ""
+        },
+        {
+          "id": "undead-cryptfiend-cryptfiendwhat4",
+          "label": "What 4",
+          "file": "/audio/Undead/CryptFiend/CryptFiendWhat4.wav",
+          "transcription": ""
+        },
+        {
+          "id": "undead-cryptfiend-cryptfiendyes1",
+          "label": "Yes 1",
+          "file": "/audio/Undead/CryptFiend/CryptFiendYes1.wav",
+          "transcription": ""
+        },
+        {
+          "id": "undead-cryptfiend-cryptfiendyes2",
+          "label": "Yes 2",
+          "file": "/audio/Undead/CryptFiend/CryptFiendYes2.wav",
+          "transcription": ""
+        },
+        {
+          "id": "undead-cryptfiend-cryptfiendyes3",
+          "label": "Yes 3",
+          "file": "/audio/Undead/CryptFiend/CryptFiendYes3.wav",
+          "transcription": ""
+        },
+        {
+          "id": "undead-cryptfiend-cryptfiendyes4",
+          "label": "Yes 4",
+          "file": "/audio/Undead/CryptFiend/CryptFiendYes4.wav",
+          "transcription": ""
+        },
+        {
+          "id": "undead-cryptfiend-cryptfiendyesattack1",
+          "label": "Yes Attack 1",
+          "file": "/audio/Undead/CryptFiend/CryptFiendYesAttack1.wav",
+          "transcription": ""
+        },
+        {
+          "id": "undead-cryptfiend-cryptfiendyesattack2",
+          "label": "Yes Attack 2",
+          "file": "/audio/Undead/CryptFiend/CryptFiendYesAttack2.wav",
+          "transcription": ""
+        },
+        {
+          "id": "undead-cryptfiend-cryptfiendyesattack3",
+          "label": "Yes Attack 3",
+          "file": "/audio/Undead/CryptFiend/CryptFiendYesAttack3.wav",
+          "transcription": ""
+        }
+      ]
+    },
+    {
+      "name": "Death Knight",
+      "image": "",
+      "audios": [
+        {
+          "id": "undead-deathknight-herodeathknightattack1",
+          "label": "Hero Death Knight Attack 1",
+          "file": "/audio/Undead/DeathKnight/HeroDeathKnightAttack1.wav",
+          "transcription": ""
+        },
+        {
+          "id": "undead-deathknight-herodeathknightdeath",
+          "label": "Hero Death Knight Death",
+          "file": "/audio/Undead/DeathKnight/HeroDeathKnightDeath.wav",
+          "transcription": ""
+        },
+        {
+          "id": "undead-deathknight-deathknightpissed1",
+          "label": "Pissed 1",
+          "file": "/audio/Undead/DeathKnight/DeathKnightPissed1.wav",
+          "transcription": ""
+        },
+        {
+          "id": "undead-deathknight-deathknightpissed2",
+          "label": "Pissed 2",
+          "file": "/audio/Undead/DeathKnight/DeathKnightPissed2.wav",
+          "transcription": ""
+        },
+        {
+          "id": "undead-deathknight-deathknightpissed3",
+          "label": "Pissed 3",
+          "file": "/audio/Undead/DeathKnight/DeathKnightPissed3.wav",
+          "transcription": ""
+        },
+        {
+          "id": "undead-deathknight-deathknightpissed4",
+          "label": "Pissed 4",
+          "file": "/audio/Undead/DeathKnight/DeathKnightPissed4.wav",
+          "transcription": ""
+        },
+        {
+          "id": "undead-deathknight-deathknightpissed5",
+          "label": "Pissed 5",
+          "file": "/audio/Undead/DeathKnight/DeathKnightPissed5.wav",
+          "transcription": ""
+        },
+        {
+          "id": "undead-deathknight-deathknightpissed6",
+          "label": "Pissed 6",
+          "file": "/audio/Undead/DeathKnight/DeathKnightPissed6.wav",
+          "transcription": ""
+        },
+        {
+          "id": "undead-deathknight-deathknightready1",
+          "label": "Ready 1",
+          "file": "/audio/Undead/DeathKnight/DeathKnightReady1.wav",
+          "transcription": ""
+        },
+        {
+          "id": "undead-deathknight-deathknightwarcry1",
+          "label": "Warcry 1",
+          "file": "/audio/Undead/DeathKnight/DeathKnightWarcry1.wav",
+          "transcription": ""
+        },
+        {
+          "id": "undead-deathknight-deathknightwhat1",
+          "label": "What 1",
+          "file": "/audio/Undead/DeathKnight/DeathKnightWhat1.wav",
+          "transcription": ""
+        },
+        {
+          "id": "undead-deathknight-deathknightwhat2",
+          "label": "What 2",
+          "file": "/audio/Undead/DeathKnight/DeathKnightWhat2.wav",
+          "transcription": ""
+        },
+        {
+          "id": "undead-deathknight-deathknightwhat3",
+          "label": "What 3",
+          "file": "/audio/Undead/DeathKnight/DeathKnightWhat3.wav",
+          "transcription": ""
+        },
+        {
+          "id": "undead-deathknight-deathknightwhat4",
+          "label": "What 4",
+          "file": "/audio/Undead/DeathKnight/DeathKnightWhat4.wav",
+          "transcription": ""
+        },
+        {
+          "id": "undead-deathknight-deathknightyes1",
+          "label": "Yes 1",
+          "file": "/audio/Undead/DeathKnight/DeathKnightYes1.wav",
+          "transcription": ""
+        },
+        {
+          "id": "undead-deathknight-deathknightyes2",
+          "label": "Yes 2",
+          "file": "/audio/Undead/DeathKnight/DeathKnightYes2.wav",
+          "transcription": ""
+        },
+        {
+          "id": "undead-deathknight-deathknightyes3",
+          "label": "Yes 3",
+          "file": "/audio/Undead/DeathKnight/DeathKnightYes3.wav",
+          "transcription": ""
+        },
+        {
+          "id": "undead-deathknight-deathknightyes4",
+          "label": "Yes 4",
+          "file": "/audio/Undead/DeathKnight/DeathKnightYes4.wav",
+          "transcription": ""
+        },
+        {
+          "id": "undead-deathknight-deathknightyes5",
+          "label": "Yes 5",
+          "file": "/audio/Undead/DeathKnight/DeathKnightYes5.wav",
+          "transcription": ""
+        },
+        {
+          "id": "undead-deathknight-deathknightyesattack1",
+          "label": "Yes Attack 1",
+          "file": "/audio/Undead/DeathKnight/DeathKnightYesAttack1.wav",
+          "transcription": ""
+        },
+        {
+          "id": "undead-deathknight-deathknightyesattack2",
+          "label": "Yes Attack 2",
+          "file": "/audio/Undead/DeathKnight/DeathKnightYesAttack2.wav",
+          "transcription": ""
+        },
+        {
+          "id": "undead-deathknight-deathknightyesattack3",
+          "label": "Yes Attack 3",
+          "file": "/audio/Undead/DeathKnight/DeathKnightYesAttack3.wav",
+          "transcription": ""
+        }
+      ]
+    },
+    {
+      "name": "Dread Lord",
+      "image": "",
+      "audios": [
+        {
+          "id": "undead-dreadlord-herodreadlorddeath",
+          "label": "Hero Dread Lord Death",
+          "file": "/audio/Undead/DreadLord/HeroDreadLordDeath.wav",
+          "transcription": ""
+        },
+        {
+          "id": "undead-dreadlord-herodreadlordattack1",
+          "label": "Hero Dreadlord Attack 1",
+          "file": "/audio/Undead/DreadLord/HeroDreadlordAttack1.wav",
+          "transcription": ""
+        },
+        {
+          "id": "undead-dreadlord-herodreadlordpissed1",
+          "label": "Hero Dreadlord Pissed 1",
+          "file": "/audio/Undead/DreadLord/HeroDreadlordPissed1.wav",
+          "transcription": ""
+        },
+        {
+          "id": "undead-dreadlord-herodreadlordpissed2",
+          "label": "Hero Dreadlord Pissed 2",
+          "file": "/audio/Undead/DreadLord/HeroDreadlordPissed2.wav",
+          "transcription": ""
+        },
+        {
+          "id": "undead-dreadlord-herodreadlordpissed3",
+          "label": "Hero Dreadlord Pissed 3",
+          "file": "/audio/Undead/DreadLord/HeroDreadlordPissed3.wav",
+          "transcription": ""
+        },
+        {
+          "id": "undead-dreadlord-herodreadlordpissed4",
+          "label": "Hero Dreadlord Pissed 4",
+          "file": "/audio/Undead/DreadLord/HeroDreadlordPissed4.wav",
+          "transcription": ""
+        },
+        {
+          "id": "undead-dreadlord-herodreadlordpissed5",
+          "label": "Hero Dreadlord Pissed 5",
+          "file": "/audio/Undead/DreadLord/HeroDreadlordPissed5.wav",
+          "transcription": ""
+        },
+        {
+          "id": "undead-dreadlord-herodreadlordpissed6",
+          "label": "Hero Dreadlord Pissed 6",
+          "file": "/audio/Undead/DreadLord/HeroDreadlordPissed6.wav",
+          "transcription": ""
+        },
+        {
+          "id": "undead-dreadlord-herodreadlordpissed7",
+          "label": "Hero Dreadlord Pissed 7",
+          "file": "/audio/Undead/DreadLord/HeroDreadlordPissed7.wav",
+          "transcription": ""
+        },
+        {
+          "id": "undead-dreadlord-herodreadlordready1",
+          "label": "Hero Dreadlord Ready 1",
+          "file": "/audio/Undead/DreadLord/HeroDreadlordReady1.wav",
+          "transcription": ""
+        },
+        {
+          "id": "undead-dreadlord-herodreadlordwarcry1",
+          "label": "Hero Dreadlord Warcry 1",
+          "file": "/audio/Undead/DreadLord/HeroDreadlordWarcry1.wav",
+          "transcription": ""
+        },
+        {
+          "id": "undead-dreadlord-herodreadlordwhat1",
+          "label": "Hero Dreadlord What 1",
+          "file": "/audio/Undead/DreadLord/HeroDreadlordWhat1.wav",
+          "transcription": ""
+        },
+        {
+          "id": "undead-dreadlord-herodreadlordwhat2",
+          "label": "Hero Dreadlord What 2",
+          "file": "/audio/Undead/DreadLord/HeroDreadlordWhat2.wav",
+          "transcription": ""
+        },
+        {
+          "id": "undead-dreadlord-herodreadlordwhat3",
+          "label": "Hero Dreadlord What 3",
+          "file": "/audio/Undead/DreadLord/HeroDreadlordWhat3.wav",
+          "transcription": ""
+        },
+        {
+          "id": "undead-dreadlord-herodreadlordwhat4",
+          "label": "Hero Dreadlord What 4",
+          "file": "/audio/Undead/DreadLord/HeroDreadlordWhat4.wav",
+          "transcription": ""
+        },
+        {
+          "id": "undead-dreadlord-herodreadlordyes1",
+          "label": "Hero Dreadlord Yes 1",
+          "file": "/audio/Undead/DreadLord/HeroDreadlordYes1.wav",
+          "transcription": ""
+        },
+        {
+          "id": "undead-dreadlord-herodreadlordyes2",
+          "label": "Hero Dreadlord Yes 2",
+          "file": "/audio/Undead/DreadLord/HeroDreadlordYes2.wav",
+          "transcription": ""
+        },
+        {
+          "id": "undead-dreadlord-herodreadlordyes3",
+          "label": "Hero Dreadlord Yes 3",
+          "file": "/audio/Undead/DreadLord/HeroDreadlordYes3.wav",
+          "transcription": ""
+        },
+        {
+          "id": "undead-dreadlord-herodreadlordyes4",
+          "label": "Hero Dreadlord Yes 4",
+          "file": "/audio/Undead/DreadLord/HeroDreadlordYes4.wav",
+          "transcription": ""
+        },
+        {
+          "id": "undead-dreadlord-herodreadlordyesattack1",
+          "label": "Hero Dreadlord Yes Attack 1",
+          "file": "/audio/Undead/DreadLord/HeroDreadlordYesAttack1.wav",
+          "transcription": ""
+        },
+        {
+          "id": "undead-dreadlord-herodreadlordyesattack2",
+          "label": "Hero Dreadlord Yes Attack 2",
+          "file": "/audio/Undead/DreadLord/HeroDreadlordYesAttack2.wav",
+          "transcription": ""
+        },
+        {
+          "id": "undead-dreadlord-herodreadlordyesattack3",
+          "label": "Hero Dreadlord Yes Attack 3",
+          "file": "/audio/Undead/DreadLord/HeroDreadlordYesAttack3.wav",
+          "transcription": ""
+        }
+      ]
+    },
+    {
+      "name": "Evil Arthas",
+      "image": "",
+      "audios": [
+        {
+          "id": "undead-evilarthas-evilarthaspissed1",
+          "label": "Pissed 1",
+          "file": "/audio/Undead/EvilArthas/EvilArthasPissed1.wav",
+          "transcription": ""
+        },
+        {
+          "id": "undead-evilarthas-evilarthaspissed2",
+          "label": "Pissed 2",
+          "file": "/audio/Undead/EvilArthas/EvilArthasPissed2.wav",
+          "transcription": ""
+        },
+        {
+          "id": "undead-evilarthas-evilarthaspissed3",
+          "label": "Pissed 3",
+          "file": "/audio/Undead/EvilArthas/EvilArthasPissed3.wav",
+          "transcription": ""
+        },
+        {
+          "id": "undead-evilarthas-evilarthaspissed4",
+          "label": "Pissed 4",
+          "file": "/audio/Undead/EvilArthas/EvilArthasPissed4.wav",
+          "transcription": ""
+        },
+        {
+          "id": "undead-evilarthas-evilarthaspissed5",
+          "label": "Pissed 5",
+          "file": "/audio/Undead/EvilArthas/EvilArthasPissed5.wav",
+          "transcription": ""
+        },
+        {
+          "id": "undead-evilarthas-evilarthaswarcry1",
+          "label": "Warcry 1",
+          "file": "/audio/Undead/EvilArthas/EvilArthasWarcry1.wav",
+          "transcription": ""
+        },
+        {
+          "id": "undead-evilarthas-evilarthaswhat1",
+          "label": "What 1",
+          "file": "/audio/Undead/EvilArthas/EvilArthasWhat1.wav",
+          "transcription": ""
+        },
+        {
+          "id": "undead-evilarthas-evilarthaswhat2",
+          "label": "What 2",
+          "file": "/audio/Undead/EvilArthas/EvilArthasWhat2.wav",
+          "transcription": ""
+        },
+        {
+          "id": "undead-evilarthas-evilarthaswhat3",
+          "label": "What 3",
+          "file": "/audio/Undead/EvilArthas/EvilArthasWhat3.wav",
+          "transcription": ""
+        },
+        {
+          "id": "undead-evilarthas-evilarthaswhat4",
+          "label": "What 4",
+          "file": "/audio/Undead/EvilArthas/EvilArthasWhat4.wav",
+          "transcription": ""
+        },
+        {
+          "id": "undead-evilarthas-evilarthasyes1",
+          "label": "Yes 1",
+          "file": "/audio/Undead/EvilArthas/EvilArthasYes1.wav",
+          "transcription": ""
+        },
+        {
+          "id": "undead-evilarthas-evilarthasyes2",
+          "label": "Yes 2",
+          "file": "/audio/Undead/EvilArthas/EvilArthasYes2.wav",
+          "transcription": ""
+        },
+        {
+          "id": "undead-evilarthas-evilarthasyes3",
+          "label": "Yes 3",
+          "file": "/audio/Undead/EvilArthas/EvilArthasYes3.wav",
+          "transcription": ""
+        },
+        {
+          "id": "undead-evilarthas-evilarthasyes4",
+          "label": "Yes 4",
+          "file": "/audio/Undead/EvilArthas/EvilArthasYes4.wav",
+          "transcription": ""
+        },
+        {
+          "id": "undead-evilarthas-evilarthasyesattack1",
+          "label": "Yes Attack 1",
+          "file": "/audio/Undead/EvilArthas/EvilArthasYesAttack1.wav",
+          "transcription": ""
+        },
+        {
+          "id": "undead-evilarthas-evilarthasyesattack2",
+          "label": "Yes Attack 2",
+          "file": "/audio/Undead/EvilArthas/EvilArthasYesAttack2.wav",
+          "transcription": ""
+        },
+        {
+          "id": "undead-evilarthas-evilarthasyesattack3",
+          "label": "Yes Attack 3",
+          "file": "/audio/Undead/EvilArthas/EvilArthasYesAttack3.wav",
+          "transcription": ""
+        },
+        {
+          "id": "undead-evilarthas-evilarthasyesattack4",
+          "label": "Yes Attack 4",
+          "file": "/audio/Undead/EvilArthas/EvilArthasYesAttack4.wav",
+          "transcription": ""
+        },
+        {
+          "id": "undead-evilarthas-evilarthasyesattack5",
+          "label": "Yes Attack 5",
+          "file": "/audio/Undead/EvilArthas/EvilArthasYesAttack5.wav",
+          "transcription": ""
+        },
+        {
+          "id": "undead-evilarthas-evilarthasyesattack6",
+          "label": "Yes Attack 6",
+          "file": "/audio/Undead/EvilArthas/EvilArthasYesAttack6.wav",
+          "transcription": ""
+        }
+      ]
+    },
+    {
+      "name": "Frost Wyrm",
+      "image": "",
+      "audios": [
+        {
+          "id": "undead-frostwyrm-frostwyrmattack1",
+          "label": "Attack 1",
+          "file": "/audio/Undead/FrostWyrm/FrostwyrmAttack1.wav",
+          "transcription": ""
+        },
+        {
+          "id": "undead-frostwyrm-frostwyrmpissed1",
+          "label": "Pissed 1",
+          "file": "/audio/Undead/FrostWyrm/FrostwyrmPissed1.wav",
+          "transcription": ""
+        },
+        {
+          "id": "undead-frostwyrm-frostwyrmpissed2",
+          "label": "Pissed 2",
+          "file": "/audio/Undead/FrostWyrm/FrostwyrmPissed2.wav",
+          "transcription": ""
+        },
+        {
+          "id": "undead-frostwyrm-frostwyrmpissed3",
+          "label": "Pissed 3",
+          "file": "/audio/Undead/FrostWyrm/FrostwyrmPissed3.wav",
+          "transcription": ""
+        },
+        {
+          "id": "undead-frostwyrm-frostwyrmpissed4",
+          "label": "Pissed 4",
+          "file": "/audio/Undead/FrostWyrm/FrostwyrmPissed4.wav",
+          "transcription": ""
+        },
+        {
+          "id": "undead-frostwyrm-frostwyrmpissed5",
+          "label": "Pissed 5",
+          "file": "/audio/Undead/FrostWyrm/FrostwyrmPissed5.wav",
+          "transcription": ""
+        },
+        {
+          "id": "undead-frostwyrm-frostwyrmready1",
+          "label": "Ready 1",
+          "file": "/audio/Undead/FrostWyrm/FrostwyrmReady1.wav",
+          "transcription": ""
+        },
+        {
+          "id": "undead-frostwyrm-frostwyrmwarcry1",
+          "label": "Warcry 1",
+          "file": "/audio/Undead/FrostWyrm/FrostwyrmWarcry1.wav",
+          "transcription": ""
+        },
+        {
+          "id": "undead-frostwyrm-frostwyrmwhat1",
+          "label": "What 1",
+          "file": "/audio/Undead/FrostWyrm/FrostwyrmWhat1.wav",
+          "transcription": ""
+        },
+        {
+          "id": "undead-frostwyrm-frostwyrmwhat2",
+          "label": "What 2",
+          "file": "/audio/Undead/FrostWyrm/FrostwyrmWhat2.wav",
+          "transcription": ""
+        },
+        {
+          "id": "undead-frostwyrm-frostwyrmwhat3",
+          "label": "What 3",
+          "file": "/audio/Undead/FrostWyrm/FrostwyrmWhat3.wav",
+          "transcription": ""
+        },
+        {
+          "id": "undead-frostwyrm-frostwyrmyes1",
+          "label": "Yes 1",
+          "file": "/audio/Undead/FrostWyrm/FrostwyrmYes1.wav",
+          "transcription": ""
+        },
+        {
+          "id": "undead-frostwyrm-frostwyrmyes2",
+          "label": "Yes 2",
+          "file": "/audio/Undead/FrostWyrm/FrostwyrmYes2.wav",
+          "transcription": ""
+        },
+        {
+          "id": "undead-frostwyrm-frostwyrmyes3",
+          "label": "Yes 3",
+          "file": "/audio/Undead/FrostWyrm/FrostwyrmYes3.wav",
+          "transcription": ""
+        },
+        {
+          "id": "undead-frostwyrm-frostwyrmyesattack1",
+          "label": "Yes Attack 1",
+          "file": "/audio/Undead/FrostWyrm/FrostwyrmYesAttack1.wav",
+          "transcription": ""
+        },
+        {
+          "id": "undead-frostwyrm-frostwyrmyesattack2",
+          "label": "Yes Attack 2",
+          "file": "/audio/Undead/FrostWyrm/FrostwyrmYesAttack2.wav",
+          "transcription": ""
+        },
+        {
+          "id": "undead-frostwyrm-frostwyrmyesattack3",
+          "label": "Yes Attack 3",
+          "file": "/audio/Undead/FrostWyrm/FrostwyrmYesAttack3.wav",
+          "transcription": ""
+        }
+      ]
+    },
+    {
+      "name": "Gargoyle",
+      "image": "",
+      "audios": [
+        {
+          "id": "undead-gargoyle-gargoyledeath1",
+          "label": "Death 1",
+          "file": "/audio/Undead/Gargoyle/GargoyleDeath1.wav",
+          "transcription": ""
+        },
+        {
+          "id": "undead-gargoyle-gargoyledeathalternate1",
+          "label": "Death Alternate 1",
+          "file": "/audio/Undead/Gargoyle/GargoyleDeathAlternate1.wav",
+          "transcription": ""
+        },
+        {
+          "id": "undead-gargoyle-gargoylemorph1",
+          "label": "Morph 1",
+          "file": "/audio/Undead/Gargoyle/GargoyleMorph1.wav",
+          "transcription": ""
+        },
+        {
+          "id": "undead-gargoyle-gargoylemorph2",
+          "label": "Morph 2",
+          "file": "/audio/Undead/Gargoyle/GargoyleMorph2.wav",
+          "transcription": ""
+        },
+        {
+          "id": "undead-gargoyle-gargoylemorph3",
+          "label": "Morph 3",
+          "file": "/audio/Undead/Gargoyle/GargoyleMorph3.wav",
+          "transcription": ""
+        },
+        {
+          "id": "undead-gargoyle-gargoylemorphout1",
+          "label": "Morph Out 1",
+          "file": "/audio/Undead/Gargoyle/GargoyleMorphOut1.wav",
+          "transcription": ""
+        },
+        {
+          "id": "undead-gargoyle-gargoyleready1",
+          "label": "Ready 1",
+          "file": "/audio/Undead/Gargoyle/GargoyleReady1.wav",
+          "transcription": ""
+        },
+        {
+          "id": "undead-gargoyle-gargoylewhat1",
+          "label": "What 1",
+          "file": "/audio/Undead/Gargoyle/GargoyleWhat1.wav",
+          "transcription": ""
+        },
+        {
+          "id": "undead-gargoyle-gargoylewhat2",
+          "label": "What 2",
+          "file": "/audio/Undead/Gargoyle/GargoyleWhat2.wav",
+          "transcription": ""
+        },
+        {
+          "id": "undead-gargoyle-gargoylewhat3",
+          "label": "What 3",
+          "file": "/audio/Undead/Gargoyle/GargoyleWhat3.wav",
+          "transcription": ""
+        },
+        {
+          "id": "undead-gargoyle-gargoyleyes1",
+          "label": "Yes 1",
+          "file": "/audio/Undead/Gargoyle/GargoyleYes1.wav",
+          "transcription": ""
+        },
+        {
+          "id": "undead-gargoyle-gargoyleyes2",
+          "label": "Yes 2",
+          "file": "/audio/Undead/Gargoyle/GargoyleYes2.wav",
+          "transcription": ""
+        },
+        {
+          "id": "undead-gargoyle-gargoyleyes3",
+          "label": "Yes 3",
+          "file": "/audio/Undead/Gargoyle/GargoyleYes3.wav",
+          "transcription": ""
+        },
+        {
+          "id": "undead-gargoyle-gargoyleyesattack1",
+          "label": "Yes Attack 1",
+          "file": "/audio/Undead/Gargoyle/GargoyleYesAttack1.wav",
+          "transcription": ""
+        },
+        {
+          "id": "undead-gargoyle-gargoyleyesattack2",
+          "label": "Yes Attack 2",
+          "file": "/audio/Undead/Gargoyle/GargoyleYesAttack2.wav",
+          "transcription": ""
+        },
+        {
+          "id": "undead-gargoyle-gargoyleyesattack3",
+          "label": "Yes Attack 3",
+          "file": "/audio/Undead/Gargoyle/GargoyleYesAttack3.wav",
+          "transcription": ""
+        }
+      ]
+    },
+    {
+      "name": "Ghoul",
+      "image": "",
+      "audios": [
+        {
+          "id": "undead-ghoul-cannibalize",
+          "label": "Cannibalize",
+          "file": "/audio/Undead/Ghoul/Cannibalize.wav",
+          "transcription": ""
+        },
+        {
+          "id": "undead-ghoul-ghouldeath",
+          "label": "Death",
+          "file": "/audio/Undead/Ghoul/GhoulDeath.wav",
+          "transcription": ""
+        },
+        {
+          "id": "undead-ghoul-ghoulpissed1",
+          "label": "Pissed 1",
+          "file": "/audio/Undead/Ghoul/GhoulPissed1.wav",
+          "transcription": ""
+        },
+        {
+          "id": "undead-ghoul-ghoulpissed2",
+          "label": "Pissed 2",
+          "file": "/audio/Undead/Ghoul/GhoulPissed2.wav",
+          "transcription": ""
+        },
+        {
+          "id": "undead-ghoul-ghoulpissed3",
+          "label": "Pissed 3",
+          "file": "/audio/Undead/Ghoul/GhoulPissed3.wav",
+          "transcription": ""
+        },
+        {
+          "id": "undead-ghoul-ghoulpissed4",
+          "label": "Pissed 4",
+          "file": "/audio/Undead/Ghoul/GhoulPissed4.wav",
+          "transcription": ""
+        },
+        {
+          "id": "undead-ghoul-ghoulready1",
+          "label": "Ready 1",
+          "file": "/audio/Undead/Ghoul/GhoulReady1.wav",
+          "transcription": ""
+        },
+        {
+          "id": "undead-ghoul-ghoulwarcry1",
+          "label": "Warcry 1",
+          "file": "/audio/Undead/Ghoul/GhoulWarcry1.wav",
+          "transcription": ""
+        },
+        {
+          "id": "undead-ghoul-ghoulwhat1",
+          "label": "What 1",
+          "file": "/audio/Undead/Ghoul/GhoulWhat1.wav",
+          "transcription": ""
+        },
+        {
+          "id": "undead-ghoul-ghoulwhat2",
+          "label": "What 2",
+          "file": "/audio/Undead/Ghoul/GhoulWhat2.wav",
+          "transcription": ""
+        },
+        {
+          "id": "undead-ghoul-ghoulwhat3",
+          "label": "What 3",
+          "file": "/audio/Undead/Ghoul/GhoulWhat3.wav",
+          "transcription": ""
+        },
+        {
+          "id": "undead-ghoul-ghoulwhat4",
+          "label": "What 4",
+          "file": "/audio/Undead/Ghoul/GhoulWhat4.wav",
+          "transcription": ""
+        },
+        {
+          "id": "undead-ghoul-ghoulyes1",
+          "label": "Yes 1",
+          "file": "/audio/Undead/Ghoul/GhoulYes1.wav",
+          "transcription": ""
+        },
+        {
+          "id": "undead-ghoul-ghoulyes2",
+          "label": "Yes 2",
+          "file": "/audio/Undead/Ghoul/GhoulYes2.wav",
+          "transcription": ""
+        },
+        {
+          "id": "undead-ghoul-ghoulyes3",
+          "label": "Yes 3",
+          "file": "/audio/Undead/Ghoul/GhoulYes3.wav",
+          "transcription": ""
+        },
+        {
+          "id": "undead-ghoul-ghoulyes4",
+          "label": "Yes 4",
+          "file": "/audio/Undead/Ghoul/GhoulYes4.wav",
+          "transcription": ""
+        },
+        {
+          "id": "undead-ghoul-ghoulyesattack1",
+          "label": "Yes Attack 1",
+          "file": "/audio/Undead/Ghoul/GhoulYesAttack1.wav",
+          "transcription": ""
+        },
+        {
+          "id": "undead-ghoul-ghoulyesattack2",
+          "label": "Yes Attack 2",
+          "file": "/audio/Undead/Ghoul/GhoulYesAttack2.wav",
+          "transcription": ""
+        },
+        {
+          "id": "undead-ghoul-ghoulyesattack3",
+          "label": "Yes Attack 3",
+          "file": "/audio/Undead/Ghoul/GhoulYesAttack3.wav",
+          "transcription": ""
+        },
+        {
+          "id": "undead-ghoul-ghoulyesattack4",
+          "label": "Yes Attack 4",
+          "file": "/audio/Undead/Ghoul/GhoulYesAttack4.wav",
+          "transcription": ""
+        }
+      ]
+    },
+    {
+      "name": "Hero Lich",
+      "image": "",
+      "audios": [
+        {
+          "id": "undead-herolich-herolichattack1",
+          "label": "Attack 1",
+          "file": "/audio/Undead/HeroLich/HeroLichAttack1.wav",
+          "transcription": ""
+        },
+        {
+          "id": "undead-herolich-herolichdeath1",
+          "label": "Death 1",
+          "file": "/audio/Undead/HeroLich/HeroLichDeath1.wav",
+          "transcription": ""
+        },
+        {
+          "id": "undead-herolich-lichattackeffort1",
+          "label": "Lich Attack Effort 1",
+          "file": "/audio/Undead/HeroLich/LichAttackEffort1.wav",
+          "transcription": ""
+        },
+        {
+          "id": "undead-herolich-lichattackeffort2",
+          "label": "Lich Attack Effort 2",
+          "file": "/audio/Undead/HeroLich/LichAttackEffort2.wav",
+          "transcription": ""
+        },
+        {
+          "id": "undead-herolich-lichattackeffort3",
+          "label": "Lich Attack Effort 3",
+          "file": "/audio/Undead/HeroLich/LichAttackEffort3.wav",
+          "transcription": ""
+        },
+        {
+          "id": "undead-herolich-herolichpissed1",
+          "label": "Pissed 1",
+          "file": "/audio/Undead/HeroLich/HeroLichPissed1.wav",
+          "transcription": ""
+        },
+        {
+          "id": "undead-herolich-herolichpissed2",
+          "label": "Pissed 2",
+          "file": "/audio/Undead/HeroLich/HeroLichPissed2.wav",
+          "transcription": ""
+        },
+        {
+          "id": "undead-herolich-herolichpissed3",
+          "label": "Pissed 3",
+          "file": "/audio/Undead/HeroLich/HeroLichPissed3.wav",
+          "transcription": ""
+        },
+        {
+          "id": "undead-herolich-herolichpissed4",
+          "label": "Pissed 4",
+          "file": "/audio/Undead/HeroLich/HeroLichPissed4.wav",
+          "transcription": ""
+        },
+        {
+          "id": "undead-herolich-herolichpissed5",
+          "label": "Pissed 5",
+          "file": "/audio/Undead/HeroLich/HeroLichPissed5.wav",
+          "transcription": ""
+        },
+        {
+          "id": "undead-herolich-herolichpissed6",
+          "label": "Pissed 6",
+          "file": "/audio/Undead/HeroLich/HeroLichPissed6.wav",
+          "transcription": ""
+        },
+        {
+          "id": "undead-herolich-herolichpissed7",
+          "label": "Pissed 7",
+          "file": "/audio/Undead/HeroLich/HeroLichPissed7.wav",
+          "transcription": ""
+        },
+        {
+          "id": "undead-herolich-herolichpissed8",
+          "label": "Pissed 8",
+          "file": "/audio/Undead/HeroLich/HeroLichPissed8.wav",
+          "transcription": ""
+        },
+        {
+          "id": "undead-herolich-herolichready1",
+          "label": "Ready 1",
+          "file": "/audio/Undead/HeroLich/HeroLichReady1.wav",
+          "transcription": ""
+        },
+        {
+          "id": "undead-herolich-herolichwarcry1",
+          "label": "Warcry 1",
+          "file": "/audio/Undead/HeroLich/HeroLichWarcry1.wav",
+          "transcription": ""
+        },
+        {
+          "id": "undead-herolich-herolichwhat1",
+          "label": "What 1",
+          "file": "/audio/Undead/HeroLich/HeroLichWhat1.wav",
+          "transcription": ""
+        },
+        {
+          "id": "undead-herolich-herolichwhat2",
+          "label": "What 2",
+          "file": "/audio/Undead/HeroLich/HeroLichWhat2.wav",
+          "transcription": ""
+        },
+        {
+          "id": "undead-herolich-herolichwhat3",
+          "label": "What 3",
+          "file": "/audio/Undead/HeroLich/HeroLichWhat3.wav",
+          "transcription": ""
+        },
+        {
+          "id": "undead-herolich-herolichwhat4",
+          "label": "What 4",
+          "file": "/audio/Undead/HeroLich/HeroLichWhat4.wav",
+          "transcription": ""
+        },
+        {
+          "id": "undead-herolich-herolichyes1",
+          "label": "Yes 1",
+          "file": "/audio/Undead/HeroLich/HeroLichYes1.wav",
+          "transcription": ""
+        },
+        {
+          "id": "undead-herolich-herolichyes2",
+          "label": "Yes 2",
+          "file": "/audio/Undead/HeroLich/HeroLichYes2.wav",
+          "transcription": ""
+        },
+        {
+          "id": "undead-herolich-herolichyes3",
+          "label": "Yes 3",
+          "file": "/audio/Undead/HeroLich/HeroLichYes3.wav",
+          "transcription": ""
+        },
+        {
+          "id": "undead-herolich-herolichyes4",
+          "label": "Yes 4",
+          "file": "/audio/Undead/HeroLich/HeroLichYes4.wav",
+          "transcription": ""
+        },
+        {
+          "id": "undead-herolich-herolichyes5",
+          "label": "Yes 5",
+          "file": "/audio/Undead/HeroLich/HeroLichYes5.wav",
+          "transcription": ""
+        },
+        {
+          "id": "undead-herolich-herolichyesattack1",
+          "label": "Yes Attack 1",
+          "file": "/audio/Undead/HeroLich/HeroLichYesAttack1.wav",
+          "transcription": ""
+        },
+        {
+          "id": "undead-herolich-herolichyesattack2",
+          "label": "Yes Attack 2",
+          "file": "/audio/Undead/HeroLich/HeroLichYesAttack2.wav",
+          "transcription": ""
+        },
+        {
+          "id": "undead-herolich-herolichyesattack3",
+          "label": "Yes Attack 3",
+          "file": "/audio/Undead/HeroLich/HeroLichYesAttack3.wav",
+          "transcription": ""
+        }
+      ]
+    },
+    {
+      "name": "Kel Thuzad Lich",
+      "image": "",
+      "audios": [
+        {
+          "id": "undead-kelthuzadlich-kelthuzadpissed1",
+          "label": "Kel Thuzad Pissed 1",
+          "file": "/audio/Undead/KelThuzadLich/KelThuzadPissed1.wav",
+          "transcription": ""
+        },
+        {
+          "id": "undead-kelthuzadlich-kelthuzadpissed2",
+          "label": "Kel Thuzad Pissed 2",
+          "file": "/audio/Undead/KelThuzadLich/KelThuzadPissed2.wav",
+          "transcription": ""
+        },
+        {
+          "id": "undead-kelthuzadlich-kelthuzadpissed3",
+          "label": "Kel Thuzad Pissed 3",
+          "file": "/audio/Undead/KelThuzadLich/KelThuzadPissed3.wav",
+          "transcription": ""
+        },
+        {
+          "id": "undead-kelthuzadlich-kelthuzadpissed4",
+          "label": "Kel Thuzad Pissed 4",
+          "file": "/audio/Undead/KelThuzadLich/KelThuzadPissed4.wav",
+          "transcription": ""
+        },
+        {
+          "id": "undead-kelthuzadlich-kelthuzadpissed5",
+          "label": "Kel Thuzad Pissed 5",
+          "file": "/audio/Undead/KelThuzadLich/KelThuzadPissed5.wav",
+          "transcription": ""
+        },
+        {
+          "id": "undead-kelthuzadlich-kelthuzadwarcry1",
+          "label": "Kel Thuzad Warcry 1",
+          "file": "/audio/Undead/KelThuzadLich/KelThuzadWarcry1.wav",
+          "transcription": ""
+        },
+        {
+          "id": "undead-kelthuzadlich-kelthuzadwhat1",
+          "label": "Kel Thuzad What 1",
+          "file": "/audio/Undead/KelThuzadLich/KelThuzadWhat1.wav",
+          "transcription": ""
+        },
+        {
+          "id": "undead-kelthuzadlich-kelthuzadwhat2",
+          "label": "Kel Thuzad What 2",
+          "file": "/audio/Undead/KelThuzadLich/KelThuzadWhat2.wav",
+          "transcription": ""
+        },
+        {
+          "id": "undead-kelthuzadlich-kelthuzadwhat3",
+          "label": "Kel Thuzad What 3",
+          "file": "/audio/Undead/KelThuzadLich/KelThuzadWhat3.wav",
+          "transcription": ""
+        },
+        {
+          "id": "undead-kelthuzadlich-kelthuzadwhat4",
+          "label": "Kel Thuzad What 4",
+          "file": "/audio/Undead/KelThuzadLich/KelThuzadWhat4.wav",
+          "transcription": ""
+        },
+        {
+          "id": "undead-kelthuzadlich-kelthuzadyes1",
+          "label": "Kel Thuzad Yes 1",
+          "file": "/audio/Undead/KelThuzadLich/KelThuzadYes1.wav",
+          "transcription": ""
+        },
+        {
+          "id": "undead-kelthuzadlich-kelthuzadyes2",
+          "label": "Kel Thuzad Yes 2",
+          "file": "/audio/Undead/KelThuzadLich/KelThuzadYes2.wav",
+          "transcription": ""
+        },
+        {
+          "id": "undead-kelthuzadlich-kelthuzadyes3",
+          "label": "Kel Thuzad Yes 3",
+          "file": "/audio/Undead/KelThuzadLich/KelThuzadYes3.wav",
+          "transcription": ""
+        },
+        {
+          "id": "undead-kelthuzadlich-kelthuzadyes4",
+          "label": "Kel Thuzad Yes 4",
+          "file": "/audio/Undead/KelThuzadLich/KelThuzadYes4.wav",
+          "transcription": ""
+        },
+        {
+          "id": "undead-kelthuzadlich-kelthuzadyesattack1",
+          "label": "Kel Thuzad Yes Attack 1",
+          "file": "/audio/Undead/KelThuzadLich/KelThuzadYesAttack1.wav",
+          "transcription": ""
+        },
+        {
+          "id": "undead-kelthuzadlich-kelthuzadyesattack2",
+          "label": "Kel Thuzad Yes Attack 2",
+          "file": "/audio/Undead/KelThuzadLich/KelThuzadYesAttack2.wav",
+          "transcription": ""
+        },
+        {
+          "id": "undead-kelthuzadlich-kelthuzadyesattack3",
+          "label": "Kel Thuzad Yes Attack 3",
+          "file": "/audio/Undead/KelThuzadLich/KelThuzadYesAttack3.wav",
+          "transcription": ""
+        }
+      ]
+    },
+    {
+      "name": "Kel Thuzad Necro",
+      "image": "",
+      "audios": [
+        {
+          "id": "undead-kelthuzadnecro-kelthuzadpissed1",
+          "label": "Kel Thuzad Pissed 1",
+          "file": "/audio/Undead/KelThuzadNecro/KelThuzadPissed1.wav",
+          "transcription": ""
+        },
+        {
+          "id": "undead-kelthuzadnecro-kelthuzadpissed2",
+          "label": "Kel Thuzad Pissed 2",
+          "file": "/audio/Undead/KelThuzadNecro/KelThuzadPissed2.wav",
+          "transcription": ""
+        },
+        {
+          "id": "undead-kelthuzadnecro-kelthuzadpissed3",
+          "label": "Kel Thuzad Pissed 3",
+          "file": "/audio/Undead/KelThuzadNecro/KelThuzadPissed3.wav",
+          "transcription": ""
+        },
+        {
+          "id": "undead-kelthuzadnecro-kelthuzadpissed4",
+          "label": "Kel Thuzad Pissed 4",
+          "file": "/audio/Undead/KelThuzadNecro/KelThuzadPissed4.wav",
+          "transcription": ""
+        },
+        {
+          "id": "undead-kelthuzadnecro-kelthuzadpissed5",
+          "label": "Kel Thuzad Pissed 5",
+          "file": "/audio/Undead/KelThuzadNecro/KelThuzadPissed5.wav",
+          "transcription": ""
+        },
+        {
+          "id": "undead-kelthuzadnecro-kelthuzadwarcry1",
+          "label": "Kel Thuzad Warcry 1",
+          "file": "/audio/Undead/KelThuzadNecro/KelThuzadWarcry1.wav",
+          "transcription": ""
+        },
+        {
+          "id": "undead-kelthuzadnecro-kelthuzadwhat1",
+          "label": "Kel Thuzad What 1",
+          "file": "/audio/Undead/KelThuzadNecro/KelThuzadWhat1.wav",
+          "transcription": ""
+        },
+        {
+          "id": "undead-kelthuzadnecro-kelthuzadwhat2",
+          "label": "Kel Thuzad What 2",
+          "file": "/audio/Undead/KelThuzadNecro/KelThuzadWhat2.wav",
+          "transcription": ""
+        },
+        {
+          "id": "undead-kelthuzadnecro-kelthuzadwhat3",
+          "label": "Kel Thuzad What 3",
+          "file": "/audio/Undead/KelThuzadNecro/KelThuzadWhat3.wav",
+          "transcription": ""
+        },
+        {
+          "id": "undead-kelthuzadnecro-kelthuzadwhat4",
+          "label": "Kel Thuzad What 4",
+          "file": "/audio/Undead/KelThuzadNecro/KelThuzadWhat4.wav",
+          "transcription": ""
+        },
+        {
+          "id": "undead-kelthuzadnecro-kelthuzadyes1",
+          "label": "Kel Thuzad Yes 1",
+          "file": "/audio/Undead/KelThuzadNecro/KelThuzadYes1.wav",
+          "transcription": ""
+        },
+        {
+          "id": "undead-kelthuzadnecro-kelthuzadyes2",
+          "label": "Kel Thuzad Yes 2",
+          "file": "/audio/Undead/KelThuzadNecro/KelThuzadYes2.wav",
+          "transcription": ""
+        },
+        {
+          "id": "undead-kelthuzadnecro-kelthuzadyes3",
+          "label": "Kel Thuzad Yes 3",
+          "file": "/audio/Undead/KelThuzadNecro/KelThuzadYes3.wav",
+          "transcription": ""
+        },
+        {
+          "id": "undead-kelthuzadnecro-kelthuzadyes4",
+          "label": "Kel Thuzad Yes 4",
+          "file": "/audio/Undead/KelThuzadNecro/KelThuzadYes4.wav",
+          "transcription": ""
+        },
+        {
+          "id": "undead-kelthuzadnecro-kelthuzadyesattack1",
+          "label": "Kel Thuzad Yes Attack 1",
+          "file": "/audio/Undead/KelThuzadNecro/KelThuzadYesAttack1.wav",
+          "transcription": ""
+        },
+        {
+          "id": "undead-kelthuzadnecro-kelthuzadyesattack2",
+          "label": "Kel Thuzad Yes Attack 2",
+          "file": "/audio/Undead/KelThuzadNecro/KelThuzadYesAttack2.wav",
+          "transcription": ""
+        },
+        {
+          "id": "undead-kelthuzadnecro-kelthuzadyesattack3",
+          "label": "Kel Thuzad Yes Attack 3",
+          "file": "/audio/Undead/KelThuzadNecro/KelThuzadYesAttack3.wav",
+          "transcription": ""
+        }
+      ]
+    },
+    {
+      "name": "Meatwagon",
+      "image": "",
+      "audios": [
+        {
+          "id": "undead-meatwagon-catapultattack1",
+          "label": "Catapult Attack 1",
+          "file": "/audio/Undead/Meatwagon/CatapultAttack1.wav",
+          "transcription": ""
+        },
+        {
+          "id": "undead-meatwagon-meatwagondeath1",
+          "label": "Death 1",
+          "file": "/audio/Undead/Meatwagon/MeatWagonDeath1.wav",
+          "transcription": ""
+        },
+        {
+          "id": "undead-meatwagon-meatwagonready1",
+          "label": "Ready 1",
+          "file": "/audio/Undead/Meatwagon/MeatWagonReady1.wav",
+          "transcription": ""
+        },
+        {
+          "id": "undead-meatwagon-meatwagonwhat1",
+          "label": "What 1",
+          "file": "/audio/Undead/Meatwagon/MeatWagonWhat1.wav",
+          "transcription": ""
+        },
+        {
+          "id": "undead-meatwagon-meatwagonwhat2",
+          "label": "What 2",
+          "file": "/audio/Undead/Meatwagon/MeatWagonWhat2.wav",
+          "transcription": ""
+        },
+        {
+          "id": "undead-meatwagon-meatwagonwhat3",
+          "label": "What 3",
+          "file": "/audio/Undead/Meatwagon/MeatWagonWhat3.wav",
+          "transcription": ""
+        },
+        {
+          "id": "undead-meatwagon-meatwagonyes1",
+          "label": "Yes 1",
+          "file": "/audio/Undead/Meatwagon/MeatWagonYes1.wav",
+          "transcription": ""
+        },
+        {
+          "id": "undead-meatwagon-meatwagonyes2",
+          "label": "Yes 2",
+          "file": "/audio/Undead/Meatwagon/MeatWagonYes2.wav",
+          "transcription": ""
+        },
+        {
+          "id": "undead-meatwagon-meatwagonyes3",
+          "label": "Yes 3",
+          "file": "/audio/Undead/Meatwagon/MeatWagonYes3.wav",
+          "transcription": ""
+        },
+        {
+          "id": "undead-meatwagon-meatwagonyesattack1",
+          "label": "Yes Attack 1",
+          "file": "/audio/Undead/Meatwagon/MeatWagonYesAttack1.wav",
+          "transcription": ""
+        },
+        {
+          "id": "undead-meatwagon-meatwagonyesattack2",
+          "label": "Yes Attack 2",
+          "file": "/audio/Undead/Meatwagon/MeatWagonYesAttack2.wav",
+          "transcription": ""
+        },
+        {
+          "id": "undead-meatwagon-meatwagonyesattack3",
+          "label": "Yes Attack 3",
+          "file": "/audio/Undead/Meatwagon/MeatWagonYesAttack3.wav",
+          "transcription": ""
+        }
+      ]
+    },
+    {
+      "name": "Necromancer",
+      "image": "",
+      "audios": [
+        {
+          "id": "undead-necromancer-necromancerdeath",
+          "label": "Death",
+          "file": "/audio/Undead/Necromancer/NecromancerDeath.wav",
+          "transcription": ""
+        },
+        {
+          "id": "undead-necromancer-necromancerpissed1",
+          "label": "Pissed 1",
+          "file": "/audio/Undead/Necromancer/NecromancerPissed1.wav",
+          "transcription": ""
+        },
+        {
+          "id": "undead-necromancer-necromancerpissed2",
+          "label": "Pissed 2",
+          "file": "/audio/Undead/Necromancer/NecromancerPissed2.wav",
+          "transcription": ""
+        },
+        {
+          "id": "undead-necromancer-necromancerpissed3",
+          "label": "Pissed 3",
+          "file": "/audio/Undead/Necromancer/NecromancerPissed3.wav",
+          "transcription": ""
+        },
+        {
+          "id": "undead-necromancer-necromancerpissed4",
+          "label": "Pissed 4",
+          "file": "/audio/Undead/Necromancer/NecromancerPissed4.wav",
+          "transcription": ""
+        },
+        {
+          "id": "undead-necromancer-necromancerpissed5",
+          "label": "Pissed 5",
+          "file": "/audio/Undead/Necromancer/NecromancerPissed5.wav",
+          "transcription": ""
+        },
+        {
+          "id": "undead-necromancer-necromancerready1",
+          "label": "Ready 1",
+          "file": "/audio/Undead/Necromancer/NecromancerReady1.wav",
+          "transcription": ""
+        },
+        {
+          "id": "undead-necromancer-necromancerwarcry1",
+          "label": "Warcry 1",
+          "file": "/audio/Undead/Necromancer/NecromancerWarcry1.wav",
+          "transcription": ""
+        },
+        {
+          "id": "undead-necromancer-necromancerwhat1",
+          "label": "What 1",
+          "file": "/audio/Undead/Necromancer/NecromancerWhat1.wav",
+          "transcription": ""
+        },
+        {
+          "id": "undead-necromancer-necromancerwhat2",
+          "label": "What 2",
+          "file": "/audio/Undead/Necromancer/NecromancerWhat2.wav",
+          "transcription": ""
+        },
+        {
+          "id": "undead-necromancer-necromancerwhat3",
+          "label": "What 3",
+          "file": "/audio/Undead/Necromancer/NecromancerWhat3.wav",
+          "transcription": ""
+        },
+        {
+          "id": "undead-necromancer-necromancerwhat4",
+          "label": "What 4",
+          "file": "/audio/Undead/Necromancer/NecromancerWhat4.wav",
+          "transcription": ""
+        },
+        {
+          "id": "undead-necromancer-necromanceryes1",
+          "label": "Yes 1",
+          "file": "/audio/Undead/Necromancer/NecromancerYes1.wav",
+          "transcription": ""
+        },
+        {
+          "id": "undead-necromancer-necromanceryes2",
+          "label": "Yes 2",
+          "file": "/audio/Undead/Necromancer/NecromancerYes2.wav",
+          "transcription": ""
+        },
+        {
+          "id": "undead-necromancer-necromanceryes3",
+          "label": "Yes 3",
+          "file": "/audio/Undead/Necromancer/NecromancerYes3.wav",
+          "transcription": ""
+        },
+        {
+          "id": "undead-necromancer-necromanceryes4",
+          "label": "Yes 4",
+          "file": "/audio/Undead/Necromancer/NecromancerYes4.wav",
+          "transcription": ""
+        },
+        {
+          "id": "undead-necromancer-necromanceryesattack1",
+          "label": "Yes Attack 1",
+          "file": "/audio/Undead/Necromancer/NecromancerYesAttack1.wav",
+          "transcription": ""
+        },
+        {
+          "id": "undead-necromancer-necromanceryesattack2",
+          "label": "Yes Attack 2",
+          "file": "/audio/Undead/Necromancer/NecromancerYesAttack2.wav",
+          "transcription": ""
+        },
+        {
+          "id": "undead-necromancer-necromanceryesattack3",
+          "label": "Yes Attack 3",
+          "file": "/audio/Undead/Necromancer/NecromancerYesAttack3.wav",
+          "transcription": ""
+        }
+      ]
+    },
+    {
+      "name": "Shade",
+      "image": "",
+      "audios": [
+        {
+          "id": "undead-shade-shadedeath1",
+          "label": "Death 1",
+          "file": "/audio/Undead/Shade/ShadeDeath1.wav",
+          "transcription": ""
+        },
+        {
+          "id": "undead-shade-shadepissed1",
+          "label": "Pissed 1",
+          "file": "/audio/Undead/Shade/ShadePissed1.wav",
+          "transcription": ""
+        },
+        {
+          "id": "undead-shade-shadepissed2",
+          "label": "Pissed 2",
+          "file": "/audio/Undead/Shade/ShadePissed2.wav",
+          "transcription": ""
+        },
+        {
+          "id": "undead-shade-shadepissed3",
+          "label": "Pissed 3",
+          "file": "/audio/Undead/Shade/ShadePissed3.wav",
+          "transcription": ""
+        },
+        {
+          "id": "undead-shade-shadepissed4",
+          "label": "Pissed 4",
+          "file": "/audio/Undead/Shade/ShadePissed4.wav",
+          "transcription": ""
+        },
+        {
+          "id": "undead-shade-shadepissed5",
+          "label": "Pissed 5",
+          "file": "/audio/Undead/Shade/ShadePissed5.wav",
+          "transcription": ""
+        },
+        {
+          "id": "undead-shade-shadepissed6",
+          "label": "Pissed 6",
+          "file": "/audio/Undead/Shade/ShadePissed6.wav",
+          "transcription": ""
+        },
+        {
+          "id": "undead-shade-shadeready1",
+          "label": "Ready 1",
+          "file": "/audio/Undead/Shade/ShadeReady1.wav",
+          "transcription": ""
+        },
+        {
+          "id": "undead-shade-shadewarcry1",
+          "label": "Warcry 1",
+          "file": "/audio/Undead/Shade/ShadeWarcry1.wav",
+          "transcription": ""
+        },
+        {
+          "id": "undead-shade-shadewhat1",
+          "label": "What 1",
+          "file": "/audio/Undead/Shade/ShadeWhat1.wav",
+          "transcription": ""
+        },
+        {
+          "id": "undead-shade-shadewhat2",
+          "label": "What 2",
+          "file": "/audio/Undead/Shade/ShadeWhat2.wav",
+          "transcription": ""
+        },
+        {
+          "id": "undead-shade-shadewhat3",
+          "label": "What 3",
+          "file": "/audio/Undead/Shade/ShadeWhat3.wav",
+          "transcription": ""
+        },
+        {
+          "id": "undead-shade-shadeyes1",
+          "label": "Yes 1",
+          "file": "/audio/Undead/Shade/ShadeYes1.wav",
+          "transcription": ""
+        },
+        {
+          "id": "undead-shade-shadeyes2",
+          "label": "Yes 2",
+          "file": "/audio/Undead/Shade/ShadeYes2.wav",
+          "transcription": ""
+        },
+        {
+          "id": "undead-shade-shadeyes3",
+          "label": "Yes 3",
+          "file": "/audio/Undead/Shade/ShadeYes3.wav",
+          "transcription": ""
+        },
+        {
+          "id": "undead-shade-shadeyes4",
+          "label": "Yes 4",
+          "file": "/audio/Undead/Shade/ShadeYes4.wav",
+          "transcription": ""
+        },
+        {
+          "id": "undead-shade-shadeyesattack1",
+          "label": "Yes Attack 1",
+          "file": "/audio/Undead/Shade/ShadeYesAttack1.wav",
+          "transcription": ""
+        },
+        {
+          "id": "undead-shade-shadeyesattack2",
+          "label": "Yes Attack 2",
+          "file": "/audio/Undead/Shade/ShadeYesAttack2.wav",
+          "transcription": ""
+        },
+        {
+          "id": "undead-shade-shadeyesattack3",
+          "label": "Yes Attack 3",
+          "file": "/audio/Undead/Shade/ShadeYesAttack3.wav",
+          "transcription": ""
+        },
+        {
+          "id": "undead-shade-shadeyesattack4",
+          "label": "Yes Attack 4",
+          "file": "/audio/Undead/Shade/ShadeYesAttack4.wav",
+          "transcription": ""
+        },
+        {
+          "id": "undead-shade-shadeyesattack5",
+          "label": "Yes Attack 5",
+          "file": "/audio/Undead/Shade/ShadeYesAttack5.wav",
+          "transcription": ""
+        }
+      ]
+    },
+    {
+      "name": "Skeleton",
+      "image": "",
+      "audios": [
+        {
+          "id": "undead-skeleton-skeletondeath1",
+          "label": "Death 1",
+          "file": "/audio/Undead/Skeleton/SkeletonDeath1.wav",
+          "transcription": ""
+        },
+        {
+          "id": "undead-skeleton-skeletonwhat1",
+          "label": "What 1",
+          "file": "/audio/Undead/Skeleton/SkeletonWhat1.wav",
+          "transcription": ""
+        },
+        {
+          "id": "undead-skeleton-skeletonwhat2",
+          "label": "What 2",
+          "file": "/audio/Undead/Skeleton/SkeletonWhat2.wav",
+          "transcription": ""
+        },
+        {
+          "id": "undead-skeleton-skeletonwhat3",
+          "label": "What 3",
+          "file": "/audio/Undead/Skeleton/SkeletonWhat3.wav",
+          "transcription": ""
+        },
+        {
+          "id": "undead-skeleton-skeletonyes1",
+          "label": "Yes 1",
+          "file": "/audio/Undead/Skeleton/SkeletonYes1.wav",
+          "transcription": ""
+        },
+        {
+          "id": "undead-skeleton-skeletonyes2",
+          "label": "Yes 2",
+          "file": "/audio/Undead/Skeleton/SkeletonYes2.wav",
+          "transcription": ""
+        },
+        {
+          "id": "undead-skeleton-skeletonyes3",
+          "label": "Yes 3",
+          "file": "/audio/Undead/Skeleton/SkeletonYes3.wav",
+          "transcription": ""
+        },
+        {
+          "id": "undead-skeleton-skeletonyesattack1",
+          "label": "Yes Attack 1",
+          "file": "/audio/Undead/Skeleton/SkeletonYesAttack1.wav",
+          "transcription": ""
+        },
+        {
+          "id": "undead-skeleton-skeletonyesattack2",
+          "label": "Yes Attack 2",
+          "file": "/audio/Undead/Skeleton/SkeletonYesAttack2.wav",
+          "transcription": ""
+        },
+        {
+          "id": "undead-skeleton-skeletonyesattack3",
+          "label": "Yes Attack 3",
+          "file": "/audio/Undead/Skeleton/SkeletonYesAttack3.wav",
+          "transcription": ""
+        }
+      ]
+    },
+    {
+      "name": "Tichondrius",
+      "image": "",
+      "audios": [
+        {
+          "id": "undead-tichondrius-tichondriuspissed1",
+          "label": "Pissed 1",
+          "file": "/audio/Undead/Tichondrius/TichondriusPissed1.wav",
+          "transcription": ""
+        },
+        {
+          "id": "undead-tichondrius-tichondriuspissed2",
+          "label": "Pissed 2",
+          "file": "/audio/Undead/Tichondrius/TichondriusPissed2.wav",
+          "transcription": ""
+        },
+        {
+          "id": "undead-tichondrius-tichondriuspissed3",
+          "label": "Pissed 3",
+          "file": "/audio/Undead/Tichondrius/TichondriusPissed3.wav",
+          "transcription": ""
+        },
+        {
+          "id": "undead-tichondrius-tichondriuspissed4",
+          "label": "Pissed 4",
+          "file": "/audio/Undead/Tichondrius/TichondriusPissed4.wav",
+          "transcription": ""
+        },
+        {
+          "id": "undead-tichondrius-tichondriuspissed5",
+          "label": "Pissed 5",
+          "file": "/audio/Undead/Tichondrius/TichondriusPissed5.wav",
+          "transcription": ""
+        },
+        {
+          "id": "undead-tichondrius-tichondriuswarcry1",
+          "label": "Warcry 1",
+          "file": "/audio/Undead/Tichondrius/TichondriusWarcry1.wav",
+          "transcription": ""
+        },
+        {
+          "id": "undead-tichondrius-tichondriuswhat1",
+          "label": "What 1",
+          "file": "/audio/Undead/Tichondrius/TichondriusWhat1.wav",
+          "transcription": ""
+        },
+        {
+          "id": "undead-tichondrius-tichondriuswhat2",
+          "label": "What 2",
+          "file": "/audio/Undead/Tichondrius/TichondriusWhat2.wav",
+          "transcription": ""
+        },
+        {
+          "id": "undead-tichondrius-tichondriuswhat3",
+          "label": "What 3",
+          "file": "/audio/Undead/Tichondrius/TichondriusWhat3.wav",
+          "transcription": ""
+        },
+        {
+          "id": "undead-tichondrius-tichondriuswhat4",
+          "label": "What 4",
+          "file": "/audio/Undead/Tichondrius/TichondriusWhat4.wav",
+          "transcription": ""
+        },
+        {
+          "id": "undead-tichondrius-tichondriusyes1",
+          "label": "Yes 1",
+          "file": "/audio/Undead/Tichondrius/TichondriusYes1.wav",
+          "transcription": ""
+        },
+        {
+          "id": "undead-tichondrius-tichondriusyes2",
+          "label": "Yes 2",
+          "file": "/audio/Undead/Tichondrius/TichondriusYes2.wav",
+          "transcription": ""
+        },
+        {
+          "id": "undead-tichondrius-tichondriusyes3",
+          "label": "Yes 3",
+          "file": "/audio/Undead/Tichondrius/TichondriusYes3.wav",
+          "transcription": ""
+        },
+        {
+          "id": "undead-tichondrius-tichondriusyes4",
+          "label": "Yes 4",
+          "file": "/audio/Undead/Tichondrius/TichondriusYes4.wav",
+          "transcription": ""
+        },
+        {
+          "id": "undead-tichondrius-tichondriusyesattack1",
+          "label": "Yes Attack 1",
+          "file": "/audio/Undead/Tichondrius/TichondriusYesAttack1.wav",
+          "transcription": ""
+        },
+        {
+          "id": "undead-tichondrius-tichondriusyesattack2",
+          "label": "Yes Attack 2",
+          "file": "/audio/Undead/Tichondrius/TichondriusYesAttack2.wav",
+          "transcription": ""
+        },
+        {
+          "id": "undead-tichondrius-tichondriusyesattack3",
+          "label": "Yes Attack 3",
+          "file": "/audio/Undead/Tichondrius/TichondriusYesAttack3.wav",
+          "transcription": ""
+        }
+      ]
+    }
+  ]
+}

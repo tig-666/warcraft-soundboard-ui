@@ -1,0 +1,9 @@
+<div class="audio-container" *ngIf="character">
+  <div class="audio-grid">
+    <button *ngFor="let audio of character?.audios"  class="audio-button"
+      (click)="playAudio(audio)">
+      {{ audio.label }}
+    </button>
+  </div>
+
+</div>

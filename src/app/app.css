@@ -1,0 +1,41 @@
+.app-layout {
+  display: grid;
+
+  grid-template-columns: 240px 1fr; /* sidebar fijo + contenido */
+  min-height: 100%;
+
+  background: #0f1318;
+  color: #e0c98f;
+}
+
+/* Sidebar */
+.sidebar {
+  background: #141a21;
+  border-right: 3px solid #6b4f1d;
+
+  padding: 1rem;
+
+  overflow-y: auto;
+}
+
+
+/* Main area */
+.main-area {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+}
+
+/* Character strip */
+.character-bar {
+  padding: 1rem;
+  border-bottom: 2px solid #3a2b15;
+  overflow-x: auto;
+}
+
+/* Audio grid area */
+.audio-area {
+  flex: 1;
+  padding: 2rem;
+  overflow-y: auto;
+}

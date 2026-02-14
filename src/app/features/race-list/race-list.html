@@ -1,0 +1,14 @@
+<div class="race-container">
+  <h2>Races</h2>
+
+  <div class="race-list">
+    <button
+      *ngFor="let race of races()"
+      (click)="selectRace(race)"
+      [class.active]="selectedRace() === race"
+      class="race-button"
+    >
+      {{ race }}
+    </button>
+  </div>
+</div>
