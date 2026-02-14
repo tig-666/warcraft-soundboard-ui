@@ -3,12 +3,12 @@
   "characters": [
     {
       "name": "Abomination",
-      "image": "/images/undead/abomination.gif",
+      "image": "images/undead/abomination.gif",
       "audios": [
         {
           "id": "undead-abomination-abominationalternatedeath1",
           "label": "Alternate Death 1",
-          "file": "/audio/Undead/Abomination/AbominationAlternateDeath1.wav",
+          "file": "audio/Undead/Abomination/AbominationAlternateDeath1.wav",
           "transcription": ""
         },
         {
